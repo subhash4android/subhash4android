@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @subhash
 - 👀 I’m interested in developing mobile apps
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on new technologies
+- 💞️ I’m looking to collaborate on new technologies and startup projects
 - 📫 How to reach me ... subhash4android@gmail.com
 
 <!---
